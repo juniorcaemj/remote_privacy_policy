@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 Remote Control built the Remote Control for SKY/DirecTV app as an Ad Supported app. This SERVICE is provided by Remote Control at no cost and is intended for use as is.
 
